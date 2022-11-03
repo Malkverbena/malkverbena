@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malkverbena)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Malkverbena&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 
-
-
+<a href="https://github.com/Malkverbena/malkverbena">
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malkverbena&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Nekoto's GitHub Stats" />
+</a>
 
 <!--
 **Malkverbena/malkverbena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

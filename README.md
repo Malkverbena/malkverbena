@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Malkverbena&show_icons=true&theme=dark#gh-dark-mode-only)]
+<!--[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Malkverbena&show_icons=true&theme=dark#gh-dark-mode-only)]-->
 
 
 <a href="https://github.com/Malkverbena/malkverbena">
